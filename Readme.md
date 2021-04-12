@@ -59,8 +59,25 @@ horizontal).
 
 Refreh chrome dan liat hasilnya
 
-![](Photo13.PNG)
+![](Photo/13.PNG)
 
+
+### 8. Membuat Form
+
+![](Photo/15.PNG)
+
+Refreh chrome dan liat hasilnya
+
+![](Photo/16.PNG)
+
+### 9. Menambahkan Style Pada Form
+Agar tampilan form lebih menarik, bisa ditambahkan CSS
+
+![](Photo/17.PNG)
+
+Refresh chrome dan liat hasilnya
+
+![](Photo/18.PNG)
 
 
 

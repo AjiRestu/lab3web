@@ -55,7 +55,13 @@ menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan unt
 menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
 horizontal).
 
-![]()
+![](Photo/12.PNG)
+
+Refreh chrome dan liat hasilnya
+
+![](Photo13.PNG)
+
+
 
 
 

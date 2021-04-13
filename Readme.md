@@ -80,6 +80,25 @@ Refresh chrome dan liat hasilnya
 ![](Photo/18.PNG)
 
 
+### Pertanyaan dan Tugas
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+### DROPDOWN menu
+
+![](Photo/19.PNG)
+
+Buka chrome dan liat hasilnya
+
+![](Photo/20.PNG)
+
+### LISTBOX
+
+![](Photo/21.PNG)
+
+Refresh chrome dan liat hasilnya
+
+![](Photo/22.PNG)
+
 
 
 
